@@ -1,0 +1,7 @@
+[
+  { "id": "alb1", "name": "Mujam", "cover": "albums/Mujam/cover.jpg" },
+  { "id": "alb2", "name": "Bipul", "cover": "albums/Bipul/cover.jpg" },
+  { "id": "alb3", "name": "Mahfuza", "cover": "albums/Mahfuza/cover.jpg" },
+  { "id": "alb4", "name": "Soptok", "cover": "albums/Soptok/cover.jpg" },
+  { "id": "alb5", "name": "Sumaiya", "cover": "albums/Sumaiya/cover.jpg" }
+]

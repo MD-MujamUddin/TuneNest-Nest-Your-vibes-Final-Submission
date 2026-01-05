@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Warriyo - Mortals",
+    "artist": "NCS",
+    "file": "songs/1.mp3",
+    "cover": "covers/1.jpg",
+    "album": "Mujam"
+  },
+  {
+    "id": 2,
+    "name": "Janji - Heroes Tonight",
+    "artist": "Janji",
+    "file": "songs/5.mp3",
+    "cover": "covers/5.jpg",
+    "album": "Bipul"
+  },
+  {
+    "id": 3,
+    "name": "Bangabandhu 7th March Speech",
+    "artist": "Sheikh Mujibur Rahman",
+    "file": "songs/12.mp3",
+    "cover": "covers/12.jpg",
+    "album": "Mahfuza"
+  }
+]
